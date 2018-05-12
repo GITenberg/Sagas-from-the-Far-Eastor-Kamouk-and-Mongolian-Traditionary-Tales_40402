@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '40608'
     url: http://www.gutenberg.org/2009/agents/40608
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40402#Sagas-from-the-Far-Eastor-Kamouk-and-Mongolian-Traditionary-Tales
 gutenberg_issued: '2012-08-03'
 gutenberg_type: Text
 identifiers:
