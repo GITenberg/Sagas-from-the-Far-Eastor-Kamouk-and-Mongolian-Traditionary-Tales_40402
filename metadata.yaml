@@ -1,0 +1,30 @@
+_repo: Sagas-from-the-Far-Eastor-Kamouk-and-Mongolian-Traditionary-Tales_40402
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40402-h/images/new-cover.jpg
+creator:
+  editor:
+    agent_name: Busk, Rachel Harriette
+    alias: Busk, R. H. (Rachel Harriette)
+    birthdate: 1831
+    deathdate: 1907
+    gutenberg_agent_id: '40608'
+    url: http://www.gutenberg.org/2009/agents/40608
+description: ''
+gutenberg_issued: '2012-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40402'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GR'
+- !lcsh 'Folklore -- Mongolia'
+- !lcsh 'Kalmyks -- Folklore'
+tableOfContents: The saga of the well-and-wise walking Khan -- The saga of Ardschi-Bordschi
+  and Vikramâditja's throne.
+title: Sagas from the Far East; or, Kalmouk and Mongolian Traditionary Tales
+url: http://www.gutenberg.org/ebooks/40402
